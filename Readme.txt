@@ -1,4 +1,4 @@
-This is my first Git repository.
+First repo
 Learning Git basics.
 
 This file was updated to practice Git tracking.
