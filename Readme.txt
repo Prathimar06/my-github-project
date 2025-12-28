@@ -1,4 +1,4 @@
-This is my first Git repository.
+First repository
 Learning Git basics.
 
 Project maintained by feature-A branch.
