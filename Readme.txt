@@ -15,3 +15,5 @@ Learning Git basics.
 
 
 >>>>>>> feature-A
+This line will be reverted.
+
